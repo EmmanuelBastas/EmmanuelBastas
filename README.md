@@ -1,7 +1,7 @@
 # Hello There 👋
 
 I am Emmanuel Christos Bastas (Junior Full Stack Developer). 🚀  
-- 🔭 Currently working on Mini Bootstrap Project (Candy Factory).
+- 🔭 Currently working on JavaScript.
 - 👯 Looking to gaining experience and improve constantly. 
 - 🌱 Learning :
 
