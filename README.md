@@ -1,6 +1,6 @@
 # Hello There 👋
 
-I am Emmanuel Christos Bastas (Junior Full Stack Developer). 🚀  
+I am Emmanuel Christos Bastas (Junior Developer). 🚀  
 - 🔭 Currently working on JavaScript.
 - 👯 Looking to gaining experience and improve constantly. 
 - 🌱 Learning :
