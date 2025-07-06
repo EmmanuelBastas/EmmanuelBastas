@@ -1,7 +1,7 @@
 # Hello There 👋
 
 I am Emmanuel Christos Bastas (Junior Developer). 🚀  
-- 🔭 Currently working on JavaScript.
+- 🔭 Currently working on Async JS.
 - 👯 Looking to gaining experience and improve constantly. 
 - 🌱 Learning :
 
