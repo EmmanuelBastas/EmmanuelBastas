@@ -1,7 +1,7 @@
 # Hello There 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F7A41D&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Student+(AUEB);Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F7A41D&center=true&vCenter=true&width=600&lines=Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 
