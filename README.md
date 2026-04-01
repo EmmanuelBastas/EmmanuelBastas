@@ -42,8 +42,3 @@ I am looking to find Web Developer jobs to get better at it.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EmmanuelBastas/EmmanuelBastas/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
