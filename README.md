@@ -38,7 +38,7 @@ I am looking to find Web Developer jobs to get better at it.
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelBastas&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=EmmanuelBastas&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
 ---
 
