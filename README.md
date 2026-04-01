@@ -43,4 +43,4 @@ I am looking to find Web Developer jobs to get better at it.
 ---
 
 ## 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBastas&layout=compact&theme=tokyonight&cache_seconds=86400" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelBastas&layout=compact&theme=tokyonight&hide=html,css)
