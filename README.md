@@ -42,4 +42,4 @@ I am looking to find Web Developer jobs to get better at it.
 
 ---
 
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelBastas&show_icons=true&theme=radical)
