@@ -42,3 +42,4 @@ I am looking to find Web Developer jobs to get better at it.
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ΤΟ_USERNAME_ΣΟΥ&show_icons=true&theme=transparent)
