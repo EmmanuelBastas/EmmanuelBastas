@@ -42,5 +42,3 @@ I am looking to find Web Developer jobs to get better at it.
 
 ---
 
-![Stars](https://img.shields.io/github/stars/EmmanuelBastas/cf9_java?style=social)
-![Forks](https://img.shields.io/github/forks/EmmanuelBastas/cf9_db?style=social)
