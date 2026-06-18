@@ -38,5 +38,6 @@ I am looking to find Web Developer jobs to get better at it.
 ---
 
 ![Stats](https://github-readme-stats-alpha-seven-54.vercel.app/api?username=EmmanuelBastas&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-alpha-seven-54.vercel.app/api/top-langs/?username=EmmanuelBastas&layout=compact&theme=dark)
 
 ---
