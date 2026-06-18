@@ -36,9 +36,3 @@ I am looking to find Web Developer jobs to get better at it.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manos.bastas.ma@gmail.com)
 
 ---
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelBastas&theme=transparent)
-
----
-
