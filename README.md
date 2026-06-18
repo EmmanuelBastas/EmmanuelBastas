@@ -36,3 +36,7 @@ I am looking to find Web Developer jobs to get better at it.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manos.bastas.ma@gmail.com)
 
 ---
+
+![Stats](https://github-readme-stats-alpha-seven-54.vercel.app/api?username=EmmanuelBastas&show_icons=true&theme=dark)
+
+---
